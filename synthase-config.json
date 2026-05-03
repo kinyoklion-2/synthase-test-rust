@@ -1,0 +1,12 @@
+{
+  "release-type": "rust",
+  "draft": true,
+  "bump-minor-pre-major": true,
+  "extra-files": ["version.txt"],
+  "packages": {
+    ".": {
+      "component": "my-lib",
+      "package-name": "my-lib"
+    }
+  }
+}
