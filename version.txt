@@ -1,1 +1,1 @@
-0.2.0 # x-synthase-version
+0.3.0 # x-synthase-version
