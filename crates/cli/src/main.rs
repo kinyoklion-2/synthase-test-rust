@@ -1,3 +1,3 @@
 fn main() {
-    println!("{}", my_lib::hello());
+    println!("{}", my_lib::greet("world"));
 }
